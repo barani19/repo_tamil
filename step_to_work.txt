@@ -1,0 +1,25 @@
+step to work in github 
+
+shortcut 
+   
+   clone -> add -> commit -> push 
+
+s1 : git config --global user.name "name"
+     git config --global user.email "mailid"
+
+s2 : create a new file to clone required repositiory
+     git clone https://github.com/barani19/repo_tamil.git (link of your target clone repo)
+
+s3 : create a new file or change modify in old file and then add to the git local 
+     git add "filename.extension"
+
+s4 : git status (used to check the untrack folder)
+
+s5 : git commit -m "message"
+
+s6 : git push origin main
+     here we push the local one to the github 
+     here origin represent the link we cloned 
+     and main represent the main in tghe cloned repo
+
+s7 : here we succcessfully cloned and add new file iun github
