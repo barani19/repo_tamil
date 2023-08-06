@@ -23,3 +23,9 @@ s6 : git push origin main
      and main represent the main in tghe cloned repo
 
 s7 : here we succcessfully cloned and add new file iun github
+
+s8 : delete in local is not affect the real github so we need to inform by  doing the add -> commit -> push this process fro deleted file
+
+s9 : here we check the github it delete the local deleted file
+
+s10 : successfully deleted
