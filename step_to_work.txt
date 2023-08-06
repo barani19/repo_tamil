@@ -29,3 +29,8 @@ s8 : delete in local is not affect the real github so we need to inform by  doin
 s9 : here we check the github it delete the local deleted file
 
 s10 : successfully deleted
+
+s11 : change in github is not reflect the local github so we modify same changes in local by using pull command
+      git pull
+
+s12 : succcessfully modify the changes in local
